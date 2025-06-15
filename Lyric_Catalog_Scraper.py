@@ -36,6 +36,21 @@ def get_artist_songs(artist_id, per_page=20, sleep_time=1):
         time.sleep(sleep_time)
     return songs
 
+# Helper function to output songs to a text file
+def write_songs_to_file(songs, filename="songs.txt"):
+    """Write song titles and URLs to a text file.
+
+    Parameters
+    ----------
+    songs : list
+        List of song dictionaries as returned by ``get_artist_songs``.
+    filename : str, optional
+        Destination filename, by default ``"songs.txt"``.
+    """
+    with open(filename, "w", encoding="utf-8") as f:
+        for song in songs:
+            f.write(f"{song['title']} ({song['url']})\n")
+
 # Example usage
 if __name__ == "__main__":
     artist_name = "Kendrick Lamar"  # Change to desired artist
@@ -46,5 +61,7 @@ if __name__ == "__main__":
         print(f"Total songs retrieved: {len(all_songs)}")
         for song in all_songs:
             print(f"{song['title']} ({song['url']})")
+        write_songs_to_file(all_songs)
+        print("Song list written to songs.txt")
     else:
         print("Artist not found.")
