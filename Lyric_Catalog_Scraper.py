@@ -21,7 +21,8 @@ cursor.execute('''
         album TEXT,
         release_year TEXT,
         url TEXT,
-        lyrics TEXT
+        lyrics TEXT,
+        popularity INTEGER
     )
 ''')
 # Delete existing entries
@@ -66,12 +67,12 @@ def get_attr_safe(obj, attr):
         return ""
 
 # Save song to database
-def save_song_to_db(song_id, title, artist, album, release_year, url, lyrics):
+def save_song_to_db(song_id, title, artist, album, release_year, url, lyrics, popularity):
     try:
         cursor.execute('''
-            INSERT OR IGNORE INTO songs (genius_id, title, artist, album, release_year, url, lyrics)
-            VALUES (?, ?, ?, ?, ?, ?, ?)
-        ''', (song_id, title, artist, album, release_year, url, lyrics))
+            INSERT OR IGNORE INTO songs (genius_id, title, artist, album, release_year, url, lyrics, popularity)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        ''', (song_id, title, artist, album, release_year, url, lyrics, popularity))
         conn.commit()
     except sqlite3.Error as e:
         print(f"Error saving to DB: {e}")
@@ -99,11 +100,12 @@ if __name__ == "__main__":
                 skipped_titles.append(title)
                 continue
             cleaned_lyrics = clean_lyrics(song.lyrics)
-            album = get_attr_safe(song, 'album')
+            album = song.album.name if song.album else ""
             year = get_attr_safe(song, 'year')
+            popularity = song._body.get("stats", {}).get("pageviews", 0)
             print(f"Lyrics preview: {cleaned_lyrics[:100]}...")
-            save_song_to_db(song.id, song.title, artist_name, album, year, song.url, cleaned_lyrics)
-            exported_rows.append([song.id, song.title, artist_name, album, year, song.url, cleaned_lyrics])
+            save_song_to_db(song.id, song.title, artist_name, album, year, song.url, cleaned_lyrics, popularity)
+            exported_rows.append([song.id, song.title, artist_name, album, year, song.url, cleaned_lyrics, popularity])
             time.sleep(1)
         except Exception as e:
             print(f"Error processing {title}: {e}")
@@ -114,7 +116,7 @@ if __name__ == "__main__":
     # Write CSV export
     with open(EXPORT_CSV_PATH, "w", newline='', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["genius_id", "title", "artist", "album", "release_year", "url", "lyrics"])
+        writer.writerow(["genius_id", "title", "artist", "album", "release_year", "url", "lyrics", "popularity"])
         writer.writerows(exported_rows)
 
     # Write skipped song titles
