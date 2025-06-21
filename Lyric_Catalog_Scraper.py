@@ -7,7 +7,7 @@ import csv
 
 # Set your Genius API access token
 ACCESS_TOKEN = "1-viKB1s7zv38w5S1t9CxOmW0g2BZBxRA8XS7uc2IQWUAWAlxfFqxQGHoe3lGkBr"
-genius = lyricsgenius.Genius(ACCESS_TOKEN, skip_non_songs=True, excluded_terms=["(Remix)", "(Live)"])
+genius = lyricsgenius.Genius(ACCESS_TOKEN, skip_non_songs=True, excluded_terms=["(Remix)", "(Live)"], remove_section_headers=True)
 
 # Database setup
 conn = sqlite3.connect("lyrics_catalog.db")
@@ -31,21 +31,29 @@ conn.commit()
 
 # Clean lyrics text
 def clean_lyrics(raw_lyrics):
+    if not raw_lyrics:
+        return ""
+    
+    # Convert special characters to ASCII
     text = unidecode(raw_lyrics)
+
+    # Remove contributor attribution at the top
     text = re.sub(r"^\d+\s+Contributors", "", text)
+
+    # Remove "Read More" text
     text = re.sub(r"Read More", "", text, flags=re.IGNORECASE)
 
-    # Remove any leading title + Lyrics (e.g., "Song Title Lyrics")
+    # Remove title + "Lyrics" patterns that often precede the actual lyrics
     text = re.sub(r"^.*?Lyrics\n", "", text, flags=re.DOTALL)
-    text = re.sub(r"^.*?Lyrics", "", text, flags=re.DOTALL)  # For cases with no \n after Lyrics
+    text = re.sub(r"^.*?Lyrics", "", text, flags=re.DOTALL)
 
-    # Remove blurbs ending in ellipsis
+    # Remove trailing blurbs that end in ellipses
     text = re.sub(r"^.*?\.\.\.\s*", "", text, flags=re.DOTALL)
 
-    # Remove brackets like [Chorus], [Verse], etc.
+    # Remove section labels like [Chorus], [Verse 1], etc.
     text = re.sub(r"\[.*?\]", "", text)
 
-    # Clean and deduplicate lines
+    # Split into lines and clean duplicates / unwanted content
     lines = text.split('\n')
     cleaned_lines = []
     seen_lines = set()
@@ -90,15 +98,15 @@ if __name__ == "__main__":
     print(f"Fetching songs for {artist_name}...")
     artist = genius.search_artist(artist_name, sort="title")
 
-    song_titles = [song.title for song in artist.songs]
-    for title in song_titles:
-        print(f"Searching for lyrics: {title}")
+    for song in artist.songs:
+        print(f"Processing: {song.title}")
         try:
-            song = genius.search_song(title, artist_name)
-            if not song:
-                print(f"Could not find lyrics for: {title}")
-                skipped_titles.append(title)
+            # Ensure song has lyrics before attempting to clean or save
+            if not song.lyrics:
+                print(f"No lyrics found for: {song.title}")
+                skipped_titles.append(song.title)
                 continue
+
             cleaned_lyrics = clean_lyrics(song.lyrics)
             album = song.album.name if song.album else ""
             year = get_attr_safe(song, 'year')
@@ -108,8 +116,8 @@ if __name__ == "__main__":
             exported_rows.append([song.id, song.title, artist_name, album, year, song.url, cleaned_lyrics, popularity])
             time.sleep(1)
         except Exception as e:
-            print(f"Error processing {title}: {e}")
-            skipped_titles.append(title)
+            print(f"Error processing {song.title}: {e}")
+            skipped_titles.append(song.title)
 
     print("All songs saved to database.")
 

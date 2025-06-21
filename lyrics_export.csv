@@ -1,5 +1,5 @@
-genius_id,title,artist,album,release_year,url,lyrics
-2534,20 Feet Tall,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-20-feet-tall-lyrics,"My love, what did I do
+genius_id,title,artist,album,release_year,url,lyrics,popularity
+2534,20 Feet Tall,Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-20-feet-tall-lyrics,"My love, what did I do
 To make you fall, so far from me?
 And now, I can't recall
 The cause of the fall, selective memory
@@ -9,8 +9,8 @@ But if I get off my knees
 I might recall, I'm 20 feet tall
 Whoa! Hey, I'm 20 feet tall, mmm
 Yeah, oh yeah, I'm 20 feet tall
-I might recall I'm 20 feet tall"
-9216,4 Leaf Clover,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-4-leaf-clover-lyrics,"Bootzilla, baby!
+I might recall I'm 20 feet tall",19792
+9216,4 Leaf Clover,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-4-leaf-clover-lyrics,"Bootzilla, baby!
 Touch a four leaf clover
 Maybe we'll get over
 Try and love might come your way
@@ -47,8 +47,8 @@ Love might get you over
 You better come quickly to get my love!)
 (Like the wind, I am free, set me free, be with me)
 (Domino, domino, domino)
-(Big six, six three will get you fifteen!)"
-710090,A Child with the Blues,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-a-child-with-the-blues-lyrics,"Could have never known that when losin
+(Big six, six three will get you fifteen!)",40065
+710090,A Child with the Blues,Erykah Badu,Baduizm (Special Edition Bonus Disc),,https://genius.com/Erykah-badu-a-child-with-the-blues-lyrics,"Could have never known that when losin
 Could hurt you so very bad
 Could have never known that when chosin
 Would make you so very sad
@@ -87,8 +87,8 @@ The same emotion we share
 Movin fast but goin nowhere
 Like a child with the blues
 A child with the blues blue
-A child with the blues, ooh"
-699688,A.D. 2000,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-ad-2000-lyrics,"No you won't be name'n no buildings after me
+A child with the blues, ooh",0
+699688,A.D. 2000,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-ad-2000-lyrics,"No you won't be name'n no buildings after me
 To go down dilapidated ooh
 My name will be mistated, surely
 His world done changed
@@ -108,8 +108,8 @@ And oh...
 (Ad-libs)
 To go down dilapidated, no
 Surely, yeah, yeah
-Mmm hmm, ooh"
-9226,Agitation,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-agitation-lyrics,"Oh-oh
+Mmm hmm, ooh",25247
+9226,Agitation,Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-agitation-lyrics,"Oh-oh
 Oh-oh-oh
 Goin' through a thang now
 Finna pull this thang out
@@ -121,8 +121,8 @@ What a day
 But it's against the law
 It's against the law
 Ah, oh no, mama please
-Thank you"
-322315,Amerykahn Promise,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-amerykahn-promise-lyrics,"More action
+Thank you",0
+322315,Amerykahn Promise,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-amerykahn-promise-lyrics,"More action
 More excitement
 More everything
 Good evening, ladies and gentlemen
@@ -197,16 +197,16 @@ Has anyone seen my forty-two laws?
 Oh, I'm sorry, we're not responsible for lost articles and thangs (Oh)
 Okay, so whenever he say a keyword, everybody just shout on cue
 That's not science
-Sh, sh, sh, you're not supposed to say it"
-10730320,Annie Don’t Wear No Panties,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-annie-dont-wear-no-panties-lyrics,"Annie don't wear no panties
+Sh, sh, sh, you're not supposed to say it",7535
+10730320,Annie Don’t Wear No Panties,Erykah Badu,Baduizm (Special Edition Bonus Disc),,https://genius.com/Erykah-badu-annie-dont-wear-no-panties-lyrics,"Annie don't wear no panties
 It's a good thing, Santa Claus then didn't bring a lot of fancy drawers
 I saw them in the bathroom stall there were, she took them off
 They was laying on the bathroom floor they was filled with the holy ghost
 So fellows, if you can't afford it I think you need to video tape record it
 She was sitting on the front pew giving deacon Johnson them a good view
 She might not have no drawers, but I bet she won't forget the hot sauce
-She was sitting on the bathroom sink having her a faucet drink"
-9215,Appletree,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-appletree-lyrics,"I'd like to dedicate this to all of the Creator's righteous children
+She was sitting on the bathroom sink having her a faucet drink",0
+9215,Appletree,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-appletree-lyrics,"I'd like to dedicate this to all of the Creator's righteous children
 I have some food in my bag for you
 Not that edible food, the food you eat?
 No, I have some food for thought
@@ -248,8 +248,8 @@ Down, down (Mm), down
 Down (Ooh), down (Ooh), down (Ooh), down (Ooh, ooh)
 Down (Ooh), down (Mm), down (Mm), down (Ooh, ooh)
 Down, down, down, down
-To be down, oh, no, you just don't wanna be down"
-2125165,Appletree (2B3 Summer Vibes Mix),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-appletree-2b3-summer-vibes-mix-lyrics,"I'd like to dedicate this to all the creators and righteous children
+To be down, oh, no, you just don't wanna be down",120832
+2125165,Appletree (2B3 Summer Vibes Mix),Erykah Badu,Baduizm (Special Edition Bonus Disc),,https://genius.com/Erykah-badu-appletree-2b3-summer-vibes-mix-lyrics,"I'd like to dedicate this to all the creators and righteous children
 I have some food in my bag for you
 Not the edible food the food you eat, no
 I have some food for thought
@@ -292,8 +292,8 @@ Oh, you just don't wanna be down, down, down, down
 Oh oh, you just don't wanna be down, down, down, down, down, down, down, down
 Down, down, down, down, down, down, down, down, down
 Oh, oh no, don't wanna be down
-No no no, just don't wanna be down"
-89461,Back in the Day (Puff),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-back-in-the-day-puff-lyrics,"Back in the day now
+No no no, just don't wanna be down",0
+89461,Back in the Day (Puff),Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-back-in-the-day-puff-lyrics,"Back in the day now
 Back in the day when things were cool, hey
 All we needed was bop-bop, bop-bop, bop-ba-domp
 Ooh, bop-bop, bop-bop, bop-ba-domp
@@ -315,7 +315,7 @@ Yeah, well, well, well
 Laughin', and singin', and jammin', and talkin'
 And we would ride around the park till it's after dark
 And when we get home hope the dogs don't bark, puff
-Puff"
+Puff",26956
 11325845,Baddiehubshop.com,Erykah Badu,,,https://genius.com/Erykah-badu-baddiehubshopcom-lyrics,"All About Baddiehub: Trends, Keywords, and Insights
 What is Baddiehubshop.com
 Baddiehub is a rising trend online with keywords like ""Baddie Hub"" and ""Baddiehub com"" gaining significant attention. Whether you're exploring content on ""Baddiehub tv"" or diving into niche topics like ""HMR Baddiehub,"" this platform offers something for everyone
@@ -336,8 +336,8 @@ If you're looking to create content or optimize your site, focus on integrating 
 ""Baddiehub tv""
 ""HMR Baddiehub""
 ""https baddiehub com""
-(c) 2025 Your Name. All rights reserved"
-50785,Bag Lady,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-bag-lady-lyrics,"Bag lady, you gone hurt your back
+(c) 2025 Your Name. All rights reserved",0
+50785,Bag Lady,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-bag-lady-lyrics,"Bag lady, you gone hurt your back
 Draggin' all them bags like that
 I guess nobody ever told you
 All you must hold onto
@@ -380,8 +380,8 @@ Betcha love can make it better, mmm, mmm
 Bag lady, mmm
 Let it go, let it go, let it go, let it go, ooh, ooh, mmm
 Girl, you don't need that
-Mmm-mmm, mmm, mmm-mmm-mmm"
-9291538,Bag Lady (Cheeba Sac Radio Edit),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-bag-lady-cheeba-sac-radio-edit-lyrics,"Mmm, whoa, ooh oh, ooh oh, ooh oh, whoa, whoa
+Mmm-mmm, mmm, mmm-mmm-mmm",171208
+9291538,Bag Lady (Cheeba Sac Radio Edit),Erykah Badu,Bag Lady - Single,,https://genius.com/Erykah-badu-bag-lady-cheeba-sac-radio-edit-lyrics,"Mmm, whoa, ooh oh, ooh oh, ooh oh, whoa, whoa
 Uh, uh, uh, uh, uh
 Oh, ooh oh, ho-oh-oh, ooh oh, whoa, whoa
 Mmm-mmm, mmm-mmm-mmm, uh
@@ -428,8 +428,8 @@ So what about the plastic bag ladies?
 And my baby bag mamas, yeah
 All of my bookbag ladies
 Ziploc bag ladies
-What about my Fendi bag ladies?"
-9291539,Bag Lady (Main Radio Edit),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-bag-lady-main-radio-edit-lyrics,"Bag lady, you gone hurt your back
+What about my Fendi bag ladies?",0
+9291539,Bag Lady (Main Radio Edit),Erykah Badu,Bag Lady - Single,,https://genius.com/Erykah-badu-bag-lady-main-radio-edit-lyrics,"Bag lady, you gone hurt your back
 Draggin' all them bags like that
 I guess nobody ever told you
 All you must hold onto
@@ -461,8 +461,8 @@ Betcha love can make it better
 Betcha love can make it better, mmm, mmm
 (Betcha love, I betcha love, I bet)
 (Babe, baby, betcha)
-(Uh, ooh, ooh, ooh, I betcha)"
-832561,Boogie Nights / All Night,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-boogie-nights-all-night-lyrics,"Hey, ha, what'cha say, hey, hey, come on
+(Uh, ooh, ooh, ooh, I betcha)",0
+832561,Boogie Nights / All Night,Erykah Badu,Live,,https://genius.com/Erykah-badu-boogie-nights-all-night-lyrics,"Hey, ha, what'cha say, hey, hey, come on
 Ha, and it, what, and it don't stop
 Jamaica funk, that's what it is
 Let it get into you
@@ -475,8 +475,8 @@ I wanna give it to ya, give it to ya, give it to ya, give it to ya
 I can't wait to love you, baby
 I'm gonna give it to ya
 Sweebe-do-be-do-do do-ya
-Alright, alright, thank you, thank you"
-699733,Booty,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-booty-lyrics,"Your booty might be bigger
+Alright, alright, thank you, thank you",0
+699733,Booty,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-booty-lyrics,"Your booty might be bigger
 But I still can pull your nigga
 But I don't want him
 You got sugar on your pita
@@ -508,8 +508,8 @@ But your nigga straight sprung off the way I stroll
 You know the whole 120 and a plus degree
 But you can't keep your God up off his knees
 You got a nine-to-five and a six-to-ten
-But your nigga told me not to work again"
-172961,Bump It,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-bump-it-lyrics,"Phat beats
+But your nigga told me not to work again",21994
+172961,Bump It,Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-bump-it-lyrics,"Phat beats
 Phat drums
 Stick em ha ha ha stick em
 Ah, ah, ah, ah
@@ -530,7 +530,7 @@ Wait a minute for you buss it
 Won't you roll a likkle something for me
 Wait a minute for you bump it
 Won't you shake it for me, shake it for me
-You know I love it when they play my shit sky high, high, high, high"
+You know I love it when they play my shit sky high, high, high, high",8113
 1946965,Bump It (Part 1 & 2),Erykah Badu,,,https://genius.com/Erykah-badu-bump-it-part-1-and-2-lyrics,"Phat Beats
 Phat Drums
 (Tongue roll) stick 'em
@@ -562,8 +562,8 @@ Can you roll a lickle for me
 Won't you shake it just little for me
 Can roll a lickle something for me
 Bump it - Well Well(4x)
-African beats and nature sound effects until end"
-2379029,Caint Use My Phone (Suite),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-caint-use-my-phone-suite-lyrics,"The first song on Badu's mixtape introduces the cellphone-themed album, inspired by Drake's ""Hotline Bling"" by bringing in the first shown themes of cellphone use.
+African beats and nature sound effects until end",0
+2379029,Caint Use My Phone (Suite),Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-caint-use-my-phone-suite-lyrics,"The first song on Badu's mixtape introduces the cellphone-themed album, inspired by Drake's ""Hotline Bling"" by bringing in the first shown themes of cellphone use.
 You can call it, but you can't use my phone
 You better use telepathy, 'cause you can't use my phone
 Put a message in a bottle, but you can't use my phone
@@ -574,8 +574,8 @@ Yeah, yeah, yeah
 Better use telepathy, 'cause you can't use my phone
 Down, calling, up, right, down, dialing, dialing, calling
 Dialing, right, up, right, down, calling, calling, calling
-Badu, Badu, Badu, Badu, Badu, Badu, Badu, Badu"
-2320647,Cel U Lar Device,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-cel-u-lar-device-lyrics,"You used to call me on my cellular device at night
+Badu, Badu, Badu, Badu, Badu, Badu, Badu, Badu",13109
+2320647,Cel U Lar Device,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-cel-u-lar-device-lyrics,"You used to call me on my cellular device at night
 And I know when that hotline bling, that could only mean one thing
 I know when that hotline bling, that could only mean one thing
 Ever since I left the city you
@@ -607,8 +607,8 @@ If you're calling to book Erykah, to flip the first burger at your company BBQ, 
 If you're calling to say peace, and don't really fit into any of those descriptions
 Text me, because I don't really answer voicemail
 Them people just said let it go
-Oh, no, no"
-9212,Certainly,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-certainly-lyrics,"Who gave you permission to rearrange me
+Oh, no, no",53459
+9212,Certainly,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-certainly-lyrics,"Who gave you permission to rearrange me
 Certainly not me
 Who told you that it was alright to love me
 I was not looking for no love affair, baby
@@ -635,8 +635,8 @@ I was not looking for no love affair
 You know that the world is mine
 I don't nobody telling me the time, no!
 The world is mine, mine, mine, mine
-I don't need no little rollin over looking after me!"
-832604,Certainly (Flipped It),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-certainly-flipped-it-lyrics,"Uh, Flipped It Mix
+I don't need no little rollin over looking after me!",54386
+832604,Certainly (Flipped It),Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-certainly-flipped-it-lyrics,"Uh, Flipped It Mix
 Might be cool
 One, two, three, four
 Who gave you permission to rearrange me
@@ -691,8 +691,8 @@ Oh, oh no, oh, hey
 Love affair, love affair, was not looking for no love affair, no
 No, oh
 Oh, oh, no no, no no (Certainly not me)
-Ow, hmm"
-61711,Cleva,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-cleva-lyrics,"This is how I look without makeup
+Ow, hmm",8178
+61711,Cleva,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-cleva-lyrics,"This is how I look without makeup
 And with no bra my ninny's sag down low
 My hair ain't never hung down to my shoulders
 And it might not grow
@@ -711,8 +711,8 @@ But why come I'm the last to know?
 Alright alright alright
 Alright alright alright yeah
 Alright with me
-Said that I'm alright with me"
-141504,Danger,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-danger-lyrics,"The brotha's got this complex occupation
+Said that I'm alright with me",25571
+141504,Danger,Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-danger-lyrics,"The brotha's got this complex occupation
 Me and this baby gon' be up all night long
 Walkin this wood floor 'til my man gets home
 I'm at the front door, I'm listening by the phone
@@ -758,8 +758,8 @@ Might have to flush the Yayo
 (I understand the game sometimes)
 Might have to flush the Yeyo
 Yeyo, Yeyo
-Break!"
-2379018,Dial’Afreaq,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-dialafreaq-lyrics,"Scientists found the cause of the world sudden dying population of bees is related to cell phones
+Break!",24709
+2379018,Dial’Afreaq,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-dialafreaq-lyrics,"Scientists found the cause of the world sudden dying population of bees is related to cell phones
 The bees sense cell phone signals transmitted when the phones ring
 Causing them to emit heavy buzzing noises
 This frequency confuses the bees, making them fly erratically
@@ -776,8 +776,8 @@ Underwater ill motherfucker from the other sun
 214, all on my phone
 We're from Dallas, baby, freak freak zone
 Freak freak zone
-Ya yeet ya ya"
-55552,Didn’t Cha Know,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-didnt-cha-know-lyrics,"Ooh, hey
+Ya yeet ya ya",11402
+55552,Didn’t Cha Know,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-didnt-cha-know-lyrics,"Ooh, hey
 I'm trying to decide
 Which way to go
 Think I made a wrong turn back there somewhere
@@ -801,8 +801,8 @@ I said ya never know how the cards may lay
 Love is life, and life is free
 Take a ride of life with me
 Free your mind and find your way
-There will be a brighter day"
-9291591,Didn’t Cha Know (Radio Edit),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-didnt-cha-know-radio-edit-lyrics,"oh-oh-oh... (Hey-hey, yeah...)
+There will be a brighter day",157110
+9291591,Didn’t Cha Know (Radio Edit),Erykah Badu,Mama’s Gun (The Dutch Edition),,https://genius.com/Erykah-badu-didnt-cha-know-radio-edit-lyrics,"oh-oh-oh... (Hey-hey, yeah...)
 Oh... oh-oh-oh... (Ooh-ah, ahh-uh...)
 Oh... oh-oh-oh... (Uhh-uh, ayy-ay...)
 Ooh, hey
@@ -832,8 +832,8 @@ Free your mind and find your way (La-la-la-la-la-la-la...)
 There will be a brighter day (La-la-la-la...)
 Free your mind and find your way (La-la-la-la...)
 There will be a brighter day (La-la...)
-There will be a brighter day"
-9213,Drama,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-drama-lyrics,"Erykah gives her reflection of the issues she sees in the world, but she has hopes that the next generation can make things better in the future.
+There will be a brighter day",0
+9213,Drama,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-drama-lyrics,"Erykah gives her reflection of the issues she sees in the world, but she has hopes that the next generation can make things better in the future.
 This world is so dramatic
 I can't believe
 That we're still livin'
@@ -854,8 +854,8 @@ Listen, people, listen
 Lift up your hearts to God
 Teach your children Wisdom
 Reality today so they can live tomorrow
-Reality today"
-9224,Fall in Love (Your Funeral),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-fall-in-love-your-funeral-lyrics,"You better go back the way you came
+Reality today",16717
+9224,Fall in Love (Your Funeral),Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-fall-in-love-your-funeral-lyrics,"You better go back the way you came
 Wrong way uh, if you stay
 Prepare to have yo' shit rearranged
 The way uh, I say
@@ -879,8 +879,8 @@ Not me
 You don't fall in love with me, no, no, no, no, no
 No, see, no, no, no, no
 Fall in love with me, please, no need
-Fall in love with me"
-304745,"Friends, fans, and artists must meet",Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-friends-fans-and-artists-must-meet-lyrics,"""Friends, Fans, and Artist Must Meet"" is a spoken word poem Badu performed at Def Poetry Jam which aired on HBO from 2002-2007. Erykah's performance is on Season 2, episode 2 of Def Poetry.Friends, fans, artists must meet
+Fall in love with me",29091
+304745,"Friends, fans, and artists must meet",Erykah Badu,Def Poetry Jam,,https://genius.com/Erykah-badu-friends-fans-and-artists-must-meet-lyrics,"""Friends, Fans, and Artist Must Meet"" is a spoken word poem Badu performed at Def Poetry Jam which aired on HBO from 2002-2007. Erykah's performance is on Season 2, episode 2 of Def Poetry.Friends, fans, artists must meet
 Which one are you, which one is me?
 Friends, fans, and artist must meet
 Which one are you, which one are me?
@@ -938,8 +938,8 @@ The world start spinning and it's moving fast
 Try to stay sane, it's the price of fame
 Spending my life trying to numb the pain
 I shake that load off and sing the song
-Liberate the mind and I go on home"
-9225,"Gone Baby, Don’t Be Long",Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-gone-baby-dont-be-long-lyrics,"As the wind blows in passing
+Liberate the mind and I go on home",17039
+9225,"Gone Baby, Don’t Be Long",Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-gone-baby-dont-be-long-lyrics,"As the wind blows in passing
 Baby I think I'm fallin in love with you
 Where you go when you gone baby? Whatcha do?
 I know you gotta get your hustle on
@@ -970,8 +970,8 @@ Ooooh
 I can't wait, to see how you move
 I like to watch, you do what you do
 Ooh, I can't wait to see what you'll be
-I'm gon' be here, cause I believe"
-232134,Green Eyes,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-green-eyes-lyrics,"My eyes are green
+I'm gon' be here, cause I believe",18493
+232134,Green Eyes,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-green-eyes-lyrics,"My eyes are green
 'Cause I eat a lot of vegetables
 It don't have nothing to do with your new friend
 I don't care, I swear
@@ -1046,8 +1046,8 @@ You can't be what I need you to
 And I don't know why I fuck with you
 I know our love will never be the same
 But I can't stand these growing pains
-Thank you"
-2378627,Hello,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-hello-lyrics,"Hello, hello, hey, hello, hello
+Thank you",141896
+2378627,Hello,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-hello-lyrics,"Hello, hello, hey, hello, hello
 Okay, challenge
 Leave your phone unlocked and right side up
 Walk out the room without throwin' your bitch off balance
@@ -1096,13 +1096,13 @@ It's important to me
 That you know you are free
 Cause I never want to make you change
 For me, babe
-Don't change, don't change, squirrel"
-832892,Hey Sugah (Interlude),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-hey-sugah-interlude-lyrics,"Dum, dum, dum da-dum, ha
-Hey, yeah, yeah, yeah"
-2378951,Hi,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-hi-lyrics,"Hello, hello, hey, hello, hello
+Don't change, don't change, squirrel",231207
+832892,Hey Sugah (Interlude),Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-hey-sugah-interlude-lyrics,"Dum, dum, dum da-dum, ha
+Hey, yeah, yeah, yeah",0
+2378951,Hi,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-hi-lyrics,"Hello, hello, hey, hello, hello
 Hello, hello, hey, hello, hello (Hello, hello, hello, hello)
-Hello, hello, hey, hello, hello (Hello)"
-606093,Hollywood,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-hollywood-lyrics,"He's on his way
+Hello, hello, hey, hello, hello (Hello)",6509
+606093,Hollywood,Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-hollywood-lyrics,"He's on his way
 He's moving to Hollywood
 He's bussing into Hollywood
 Show him the way
@@ -1120,8 +1120,8 @@ Mixed expressions, smile whore thin
 Caught in the blink of Hollywood
 And in battle of maneuvering skin
 False expressions, washed out dreams
-Everybody makes believe in Hollywood"
-831646,Honey,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-honey-lyrics,"We hope you enjoyed your train ride
+Everybody makes believe in Hollywood",0
+831646,Honey,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-honey-lyrics,"We hope you enjoyed your train ride
 From this point, ladies and gentlemen
 You're on your own
 New Amerykah 4th World War
@@ -1167,8 +1167,8 @@ But you gave me the run-around
 I need to know if you're feelin' me
 Can you stick your pinky finger in my tea
 Cause you so sweet to me, oh
-Honey, yeah ooh oh oh"
-67171,Honey (Ron Trent’s Honey Mix),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-honey-ron-trents-honey-mix-lyrics,"Honey
+Honey, yeah ooh oh oh",22684
+67171,Honey (Ron Trent’s Honey Mix),Erykah Badu,Honey (Remixes),,https://genius.com/Erykah-badu-honey-ron-trents-honey-mix-lyrics,"Honey
 So tell me, Slim, what you wanna do
 When you know I'm in love with you
 Every time that I turn around
@@ -1226,8 +1226,8 @@ You got that honey (You got)
 Stop actin' funny (Stop actin' funny)
 You really turn me on (Ooh, you really turn me on, boy)
 Turn me on
-Woo"
-9241,Honey (Wally Sparks Mix),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-honey-wally-sparks-mix-lyrics,"(Honey...)
+Woo",0
+9241,Honey (Wally Sparks Mix),Erykah Badu,Hip-Hop Docktrine 2: The Saga Continues,,https://genius.com/Erykah-badu-honey-wally-sparks-mix-lyrics,"(Honey...)
 Sugar got a long way to catch you, oh, oh...
 You so sweet... (Honey...)
 All I gotta do is add a little lemon, oh...
@@ -1257,7 +1257,7 @@ So it's whatever, girl
 Honey, yeah, oh
 You so sweet...well... (Honey...)
 Hey, you make me think, Ow!
-Honey, yeah, yeah, oh..."
+Honey, yeah, yeah, oh...",0
 2459687,I Been Goin’ Thru It All,Erykah Badu,,,https://genius.com/Erykah-badu-i-been-goin-thru-it-all-lyrics,")
 Only thing that kept me going (What?)
 Is looking in the fucking mirror (Yep)
@@ -1293,8 +1293,8 @@ Back all against the wall (Badu)
 I only get one call (Uhh)
 Who the fuck do I call? (Right)
 Wintertime
-I been going through it all"
-2379023,I’ll Call U Back,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-ill-call-u-back-lyrics,"I'm in the kitchen
+I been going through it all",34551
+2379023,I’ll Call U Back,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-ill-call-u-back-lyrics,"I'm in the kitchen
 I'm cooking and mixing
 And fixing the sauces
 And I'll call you back
@@ -1315,13 +1315,13 @@ It's business, it's business and I'll call you back
 It's business, it's business and I'll call you
 Back, back, back, back, back, back, back, back, back
 And I'll call you back, back, back, back, back
-Back, back, back, back, back, back, back, back"
-724892,Incense,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-incense-lyrics,"Never changing
+Back, back, back, back, back, back, back, back",30126
+724892,Incense,Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-incense-lyrics,"Never changing
 Shining light
 This is the return to life
 Fill your cup
-With love and joy"
-396157,In Love with You,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-in-love-with-you-lyrics,"*Scat*
+With love and joy",6773
+396157,In Love with You,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-in-love-with-you-lyrics,"*Scat*
 And she says she needs more than a friend
 That's all I ever been, yo
 Well one day you gon' overstand (*scat*)
@@ -1380,8 +1380,8 @@ Yes I'm in love you
 And I'm in love with you
 I'm in love with you
 (*Joint Scat*)
-Yes I'm in love with you"
-337441,I Want You,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-i-want-you-lyrics,"I, I, I, I, I, I, I want
+Yes I'm in love with you",56036
+337441,I Want You,Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-i-want-you-lyrics,"I, I, I, I, I, I, I want
 You, you, you, you, you, you, you
 Oh I, I, I, I, I, I, I want
 Said...
@@ -1435,8 +1435,8 @@ Oh, I, I, I, I, I, I, I, I want
 You, you, you, you, you, you, you-
 Part II
 Just because I tell you I love you
-Don't mean that I do, do, do, do..."
-9228,Jump Up in the Air and Stay There,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-jump-up-in-the-air-and-stay-there-lyrics,"Jump up in the air and stay there
+Don't mean that I do, do, do, do...",24401
+9228,Jump Up in the Air and Stay There,Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-jump-up-in-the-air-and-stay-there-lyrics,"Jump up in the air and stay there
 I know you, want to...
 I know you want to
 Jumped, up, out my seat
@@ -1471,8 +1471,8 @@ We spendin' like, cra-zay
 Come Fly with us (hey)
 We on the ceiling stuck (hey yea)
 Like a fan full of dust, like a hand full of bucks
-We spending like, crazy"
-431452,Kiss Me on My Neck (Hesi),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-kiss-me-on-my-neck-hesi-lyrics,"I want somebody to walk up behind me
+We spending like, crazy",9697
+431452,Kiss Me on My Neck (Hesi),Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-kiss-me-on-my-neck-hesi-lyrics,"I want somebody to walk up behind me
 And kiss me on my neck and breathe on my neck
 Been such a long time
 I forgot that I was fine
@@ -1488,8 +1488,8 @@ If you want to feel me baby
 Bring me water for these flowers
 Growing out my mind
 Give me nothin' just be gentle
-Use me, don't abuse me, love me"
-9227,Love,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-love-lyrics,")
+Use me, don't abuse me, love me",18401
+9227,Love,Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-love-lyrics,")
 Feel me..
 (Oh, oh)
 Just tell me...
@@ -1529,8 +1529,8 @@ Yes, you love me...
 Know I like it....
 Goddamn it, mmmmmmmmmmmmmm..
 Boom-bah, boom-baaah, baaah, baaah, yeah
-Baby baby, I'm about to go insaaaaaa-ahhne"
-32531,Love of My Life (An Ode to Hip Hop),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-love-of-my-life-an-ode-to-hip-hop-lyrics,"Right here what we gon' do is go back
+Baby baby, I'm about to go insaaaaaa-ahhne",19447
+32531,Love of My Life (An Ode to Hip Hop),Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-love-of-my-life-an-ode-to-hip-hop-lyrics,"Right here what we gon' do is go back
 Way back
 Ooh
 Way back, yeah
@@ -1583,8 +1583,8 @@ It's like that and a
 Ooh, you know you rock my world and
 You be boy and I'll be girl and
 We don't stop until the break of dawn, ooh
-Yeah"
-3377138,Love of My Life (Kaytranada Edition),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-love-of-my-life-kaytranada-edition-lyrics,"Way back, yeah
+Yeah",122037
+3377138,Love of My Life (Kaytranada Edition),Erykah Badu,KAYTRANADA REMIX,,https://genius.com/Erykah-badu-love-of-my-life-kaytranada-edition-lyrics,"Way back, yeah
 I met him when I was a
 A little girl, he gave me
 He gave me poetry
@@ -1622,8 +1622,8 @@ On you I can depend, yeah, yeah
 Ooh, you know you rock my world and
 You B-boy and I'm B-girl'n
 It don't stop until the break of dawn, ooh...
-Yeah..."
-428292,Love of My Life Worldwide,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-love-of-my-life-worldwide-lyrics,"(Don't you give up! Keep goin', keep goin', keep goin', uh)
+Yeah...",0
+428292,Love of My Life Worldwide,Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-love-of-my-life-worldwide-lyrics,"(Don't you give up! Keep goin', keep goin', keep goin', uh)
 If you're not ready, better get yourself together
 Funk you up, we gon' funk you up
 Love of my life!
@@ -1706,7 +1706,7 @@ We gon' funk you up (To death...)
 We gon' funk you up (And it's fresh, and it's def...)
 Ring, ding, dong, ring-a, ding, ding, dong (And it's fly, it's mad dumb...)
 Ring, ding, dong, ring-a, ding, ding, dong (And it's stoopid, it's crazy dope)
-(It's off the hinges, it's off the heezy)"
+(It's off the hinges, it's off the heezy)",8515
 9232,Love of my Life Worldwide (Alternate Version),Erykah Badu,,,https://genius.com/Erykah-badu-love-of-my-life-worldwide-alternate-version-lyrics,"..
 Home, where you belong, cuz you ain't strong
 Knick knack, paddie whack, give me back my bone
@@ -1766,8 +1766,8 @@ We gon' funk you up, we gon' funk you up
 Love of my life, you are my friend, on who I can depend
 Love of my life, without your baby it ain't a simple true love
 Hope this shit here ain't clear, hope this shit here ain't clear
-Funk you up, we gon funk you up!"
-396781,Master Teacher,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-master-teacher-lyrics,"Beat sampled from Curtis Mayfield's Freddie's Dead.Dreams, dreams
+Funk you up, we gon funk you up!",0
+396781,Master Teacher,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-master-teacher-lyrics,"Beat sampled from Curtis Mayfield's Freddie's Dead.Dreams, dreams
 Dreams
 I have longed to stay awake
 A beautiful world I'm trying to find
@@ -1841,7 +1841,7 @@ Ooh-ah, ooh-ah (Mm, stay woke)
 Ooh-ah, ooh-ah (I stay)
 Ooh-ah, ooh-ah (Yes, I do, I stay woke)
 Ooh-ah, ooh-ah (Ooh)
-Trust me, it's only a test"
+Trust me, it's only a test",31290
 1845815,Master Teacher Medley,Erykah Badu,,,https://genius.com/Erykah-badu-master-teacher-medley-lyrics,"Since
 We are lying here
 Know I want, I want, I want you boo, to know
@@ -1863,8 +1863,8 @@ This dope
 Tired of this dope
 Without his dope
 Tired of this dope...
-Hmm, without..."
-732784,Me,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-me-lyrics,"Everything around you see
+Hmm, without...",0
+732784,Me,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-me-lyrics,"Everything around you see
 The Ankhs, the wraps, the plus degrees
 And yes, even the mysteries
 It's all me
@@ -1917,8 +1917,8 @@ Lovely, long, and fresh
 I could not think of another soul that I'd rather be like or admire
 Kolleen is tighter, smarter, quicker than the average bear
 Even though, even though, it was hard
-You would never ever know it"
-2378999,Mr. Telephone Man,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-mr-telephone-man-lyrics,"Mr. Telephone Man (there is something wrong with my line)
+You would never ever know it",15863
+2378999,Mr. Telephone Man,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-mr-telephone-man-lyrics,"Mr. Telephone Man (there is something wrong with my line)
 Mr. Telephone Man (I get a click every time)
 Mr. Telephone Man
 I called a thousand times, Mr. Telephone Man
@@ -1935,8 +1935,8 @@ Something wrong with my line
 Get a click every time
 Oooh
 Nah nah nah dah
-I dialed the right number, but I still couldn't get through"
-324593,My Life,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-my-life-lyrics,"I was standing downtown, downtown
+I dialed the right number, but I still couldn't get through",8517
+324593,My Life,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-my-life-lyrics,"I was standing downtown, downtown
 Staring at the puddles on the ground
 Tryin' to figure out a way up out of this town
 And I know yeah, I'm not the only one
@@ -1967,8 +1967,8 @@ Cause I know that I'll go far
 Can't let nobody kill my soul and bring me down
 And they know who they are, my life
 My Life (Brother you know)
-No turning back"
-831699,My People,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-my-people-lyrics,"I'm a bad motherfucker and I don't mind dying
+No turning back",14079
+831699,My People,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-my-people-lyrics,"I'm a bad motherfucker and I don't mind dying
 Pure dynamite
 Hold on, my people
 Hold on, my people (Through the thunder and lightning)
@@ -1993,8 +1993,8 @@ Hold on, my people (Right now, my brothers and sisters)
 Hold on, my people (Keep on moving, keep on moving)
 Hold on, my people (Keep on moving on)
 Good morning
-Did you have a dream?"
-9218,Next Lifetime,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-next-lifetime-lyrics,"Erykah, we've been known each other for a while and
+Did you have a dream?",0
+9218,Next Lifetime,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-next-lifetime-lyrics,"Erykah, we've been known each other for a while and
 You know, I'm into you
 Just wanna know what I gotta do, you know, to get closer to you
 Wait a minute now, you know I'm in a situation, why you even--
@@ -2072,8 +2072,8 @@ But how can I want you for myself (I can't hide my feelings)
 When I'm already someone's girl? (Don't worry, baby)
 'Cause what we got is so defying
 Next time, I'll make you mine (Mm)
-Ooh"
-8072021,Next Lifetime (Radio Version),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-next-lifetime-radio-version-lyrics,"Now what am I supposed to do
+Ooh",179815
+8072021,Next Lifetime (Radio Version),Erykah Badu,Next Lifetime - Single,,https://genius.com/Erykah-badu-next-lifetime-radio-version-lyrics,"Now what am I supposed to do
 When I want you in my world (Want you in my world)
 But how can I want you for myself (Oh)
 When I'm already someone's girl? (Mm)
@@ -2124,8 +2124,38 @@ When I want you in my world (No; want you in my world)
 When I'm already someone's girl? (Oh)
 You know I wanna stay around
 I'm so confused now (Mm)
-Now what am I supposed to do (What you want me to do, babe?)"
-9217,No Love,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-no-love-lyrics,"You can see straight through me
+Now what am I supposed to do (What you want me to do, babe?)",0
+12037180,Next To You,Erykah Badu,Abi & Alan,,https://genius.com/Erykah-badu-and-the-alchemist-next-to-you-lyrics,"I, oh, I
+I, I do
+I wanna smoke blunts with you (Music)
+I wanna get drunk with you, I do
+I wanna be next to you, I do, mhm
+I wanna be next to you, I do
+I can't even lie
+You're the only one that's on my mind
+And I can't wait to see you after school
+Follow me and we gon' break the rules
+I can't even fly
+You're the only one that gets me high
+We go back like no one create's the biz, ayy
+And when you see the you know what it is
+So bring it back now
+I wanna take walks with you, I do
+Walk, you (I do)
+I wanna just talk with you, talk with you (Talk with you)
+Where are they, are they, are they?
+I wanna be next to you
+I can't think without you
+I can't think without you (Think, think)
+I can't think without you (Can not at all)
+I can't think without you, baby-girl
+Can't
+Are we done?
+And where are we flying? You get up
+(Bright lights on a desk that's far away)
+Da-da-da-da, da-da-da-da
+(Back to  where she choose, ay)",0
+9217,No Love,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-no-love-lyrics,"You can see straight through me
 Never thought you'd do me
 The way you do
 How can anyone be so cruel
@@ -2151,8 +2181,8 @@ From this misery
 Tell me
 You make me feel like you care a lot
 But I love you too much, much too much
-Baby you"
-73192,...& On,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-on-lyrics,"& On"" is a sequel to her 1997 breakthrough hit single ""On & On"", for which Erykah was awarded Best Female R&B Vocal Performance at the 1998 Grammy Awards. As she did in ""On & On"", Erykah incorporates...
+Baby you",13695
+73192,...& On,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-on-lyrics,"& On"" is a sequel to her 1997 breakthrough hit single ""On & On"", for which Erykah was awarded Best Female R&B Vocal Performance at the 1998 Grammy Awards. As she did in ""On & On"", Erykah incorporates...
 One-one-one-one, one-two, one-two
 On & on & on & on
 Wake the fuck up 'cause it's been too long
@@ -2205,8 +2235,8 @@ Mad props to the God JaBorn
 Things just ain't the same for singers
 Gotta sing on the beats they bring us
 But that's all I have, ain't got no mo'
-But still the people really wanna to know"
-9220,On & On,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-on-and-on-lyrics,"Oh my, my, my, I'm feeling high
+But still the people really wanna to know",84217
+9220,On & On,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-on-and-on-lyrics,"Oh my, my, my, I'm feeling high
 My money's gone, I'm all alone
 Too much to see
 The world keeps turning
@@ -2240,8 +2270,8 @@ The mothership can't save you so your ass is gon' get left
 Oh on and on and on, on, on-on, on, on
 You can't fuck with me, so just leave it alone
 Ooh, ooh, wait, on and on and on and on
-And on and on"
-2116958,On & On (Da Boom Squad Mix),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-on-and-on-da-boom-squad-mix-lyrics,"Oh my, my, my
+And on and on",754031
+2116958,On & On (Da Boom Squad Mix),Erykah Badu,Baduizm (Special Edition Bonus Disc),,https://genius.com/Erykah-badu-on-and-on-da-boom-squad-mix-lyrics,"Oh my, my, my
 I'm feelin' high
 My money's gone
 I'm all alone
@@ -2321,8 +2351,8 @@ Got it up top, don't watch the blank channel
 Got soul, 'cause a monkey take a whiff of the jam
 You're on with the song
 Just say, ""Thank you mam""
-Cipher movin'"
-4763646,On & On (Jazz Mix),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-on-and-on-jazz-mix-lyrics,"Oh my, my, my, I'm feeling high
+Cipher movin'",0
+4763646,On & On (Jazz Mix),Erykah Badu,Baduizm (Special Edition Bonus Disc),,https://genius.com/Erykah-badu-on-and-on-jazz-mix-lyrics,"Oh my, my, my, I'm feeling high
 My  money's gone, I'm all alone
 Too  much to see
 The world keeps turning
@@ -2357,8 +2387,8 @@ The mothership can't save you so your ass is gon' get left
 Oh on and on and on, on, on-on, on, on
 You can't fuck with me, so just leave it alone
 Ooh, ooh, wait, on and on and on and on
-And on and on"
-231188,Orange Moon,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-orange-moon-lyrics,"I'm an orange moon
+And on and on",0
+231188,Orange Moon,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-orange-moon-lyrics,"I'm an orange moon
 Reflecting the light of the sun
 Many nights he was alone
 Many, many, many nights
@@ -2383,8 +2413,8 @@ He ruled the day, I ruled the night
 Shine, shine, shine
 How good he is, how God he is
 I'm brighter than before, brighter
-Smile at me"
-9222,Otherside of the Game,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-otherside-of-the-game-lyrics,"What you gonna do when they come for you?
+Smile at me",74339
+9222,Otherside of the Game,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-otherside-of-the-game-lyrics,"What you gonna do when they come for you?
 Work ain't honest but it pays the bills (Mm)
 What we gonna do when they come for you?
 Gave me the life that I came to live
@@ -2442,8 +2472,8 @@ Oh, oh
 But I want you to do what's right, yeah
 I'm your wife
 (I can't stand it, baby)
-You gotta do what you gotta do now"
-9233,"Out My Mind, Just in Time",Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-out-my-mind-just-in-time-lyrics,"love from high...
+You gotta do what you gotta do now",105345
+9233,"Out My Mind, Just in Time",Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-out-my-mind-just-in-time-lyrics,"love from high...
 New frontier...Who's this guy?...
 You're so wise...I'm so gone...
 By summertime...You had it all...
@@ -2490,8 +2520,8 @@ Might not have nowhere to go
 Now I got a leading role
 Introducing Super Dope
 Starring in her episode
-Hello, new world, out, my mind"
-414137,Penitentiary Philosophy,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-penitentiary-philosophy-lyrics,"Why, why are all these voices in my mind?
+Hello, new world, out, my mind",68404
+414137,Penitentiary Philosophy,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-penitentiary-philosophy-lyrics,"Why, why are all these voices in my mind?
 (I have to write a song again)
 (I have to remember to turn on the oven, to warm up the apartment)
 (I hope Sevens okay, I wonder if he took his medicine)
@@ -2544,8 +2574,8 @@ Why in the world
 Why world do you want me to be so mad yeah
 Why make me, make me, make me, make me, make me so mad
 Why yeah, why yeah, why yeah
-Why yeah..."
-2362349,Phone Down,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-phone-down-lyrics,"I can make you put your phone down
+Why yeah...",36677
+2362349,Phone Down,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-phone-down-lyrics,"I can make you put your phone down
 I can make you, I can make you
 As we cruise through the city
 You ain't gonna text no one when you wit me
@@ -2568,7 +2598,7 @@ Probably wouldn't even know how to unlock it
 I see your friend callin but forget em'
 Your mama probably think you out there missin'
 Ahh
-I can make you put your phone (put your phone down, put your phone..)"
+I can make you put your phone (put your phone down, put your phone..)",57582
 2802819,Props To The Lonely People,Erykah Badu,,,https://genius.com/Erykah-badu-props-to-the-lonely-people-lyrics,"Little ghetto chile
 I feel you
 Ya know it's been a while
@@ -2582,8 +2612,8 @@ How can you hear me
 When you only listen
 With that fear?
 Props to the lonely people
-I know how you feel people"
-3087962,Real Thang,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-real-thang-lyrics,"I know a lot of people been telling you this and that
+I know how you feel people",0
+3087962,Real Thang,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-real-thang-lyrics,"I know a lot of people been telling you this and that
 Oh, but don't you listen, 'cause they don't know where it's at
 They don't know where it's at...fall back (Woo)
 Think you better tell your soldiers...fall back
@@ -2653,7 +2683,7 @@ Wait a minute, did it get leaked to the radio?)
 Fall back (Uh, I think y'all better tell Flex to drop bombs tomorrow
 2007 A.D.)
 I'm doin' my real thang, real thang, real thang
-Thank you"
+Thank you",0
 831937,Reprise,Erykah Badu,,,https://genius.com/Erykah-badu-reprise-lyrics,"You surprise me day and night
 You keep me guessing day and night
 Day and night(oh)day and night
@@ -2662,8 +2692,8 @@ I promise you I'll never let you down
 Even when you just dont know
 And your feeling down
 I'll be their for you
-Day and night (oh) day and night"
-9221,Rimshot (Intro),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-rimshot-intro-lyrics,"I want a rim shot, hey, digi, digi
+Day and night (oh) day and night",0
+9221,Rimshot (Intro),Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-rimshot-intro-lyrics,"I want a rim shot, hey, digi, digi
 A rim shot, hey, c'mon
 I came to hear the band today
 I ain't thinkin' 'bout you
@@ -2678,8 +2708,8 @@ Give it to me (Boom-klat-boom-klat), oh, hit your stick up 'gainst that drum (Bo
 I wanna do it, oh
 (Boom-klat-boom-klat, boom-klat-boom-klat)
 I want my rim
-I want a rim shot, mhm"
-9219,Rimshot (Outro),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-rimshot-outro-lyrics,".
+I want a rim shot, mhm",62516
+9219,Rimshot (Outro),Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-rimshot-outro-lyrics,".
 Boom-klat-boom-klat....
 Hit your stick up against that drum
 I don't wanna hear no snare
@@ -2690,16 +2720,16 @@ I really dig the way you hear that stick
 On the drum, pum, pum, pum, pum
 I want my rim shot, hey, digi
 The rim shot, hey, digi...
-I, I, I, I wanna rim shot....(repeat til end)"
-832452,Searching,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-searching-lyrics,"This is grown folks' music
+I, I, I, I wanna rim shot....(repeat til end)",5138
+832452,Searching,Erykah Badu,Live,,https://genius.com/Erykah-badu-searching-lyrics,"This is grown folks' music
 I got a story to say and I'll tell you why
 I'm searchin'
 You see my friend and I need someone
 Who feels and needs the same as I
 What's right is right and what's wrong is wrong
 I'm gonna sing my song all day long
-Searchin', searchin', searchin', searchin', searchin'"
-53908,Soldier,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-soldier-lyrics,"And he's on the ball (Woo)
+Searchin', searchin', searchin', searchin', searchin'",0
+53908,Soldier,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-soldier-lyrics,"And he's on the ball (Woo)
 Never miss a day of school (Ha)
 And he's an underdog (Uh)
 Wanna learn more and more (Ooh)
@@ -2770,8 +2800,8 @@ Mm-mm, oh
 Hey, hey (Shoop)
 Hey, hey
 Hey, hey (Ah)
-Hey"
-9223,Sometimes,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-sometimes-lyrics,"Ye yo ye yo
+Hey",35859
+9223,Sometimes,Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-sometimes-lyrics,"Ye yo ye yo
 Sometimes, I don't love you anymore
 Sometimes, I'm in love with you
 Sometimes, I think that I'm going mad
@@ -2800,8 +2830,8 @@ Where did the love go (I don't know)
 Where did the love go (oh oh)
 Where did the love go (where)
 Where did the love go (where, where)
-Where did the love go oh (oh where)"
-832535,Sometimes (Mix #9),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-sometimes-mix-9-lyrics,"Ye, yo
+Where did the love go oh (oh where)",15168
+832535,Sometimes (Mix #9),Erykah Badu,Baduizm,,https://genius.com/Erykah-badu-sometimes-mix-9-lyrics,"Ye, yo
 Well, I came to the show I was picked to flow (Sometimes)
 Now I wanna know if you wanna go
 To the studio bust a rhyme or two (Sometimes)
@@ -2809,8 +2839,8 @@ What you wanna do?
 Bring your sack but I'm cool with that (Sometimes)
 I got the fateless tag and a pimped out drag
 Got the song and it's on, it's on (Sometimes)
-Got the studio rocked down all night long (Well)"
-832714,Stay,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-stay-lyrics,"Oh oh oh ah oh ah
+Got the studio rocked down all night long (Well)",7076
+832714,Stay,Erykah Badu,Live,,https://genius.com/Erykah-badu-stay-lyrics,"Oh oh oh ah oh ah
 Oh oh oh ah, ooh ooh ooh
 Oh oh oh ah, ooh ooh
 Please stay with me now
@@ -2859,8 +2889,8 @@ Yeah, yeah
 Stay, stay
 Thank you
 Woo, alright
-Can y'all help me right quick with this situation?"
-699773,Telephone,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-telephone-lyrics,"Telephone
+Can y'all help me right quick with this situation?",0
+699773,Telephone,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-telephone-lyrics,"Telephone
 It's Ol' Dirty
 He wants to give you directions home
 Said it won't be too long
@@ -2888,8 +2918,8 @@ Two hearts up in the sky
 Celebrate your life
 Oh, say I love you
 For me
-Thank, thank you"
-4603346,Tempted,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-and-james-poyser-tempted-lyrics,"I bought a toothbrush, some toothpaste
+Thank, thank you",10813
+4603346,Tempted,Erykah Badu,The Photograph (Original Motion Picture Soundtrack),,https://genius.com/Erykah-badu-and-james-poyser-tempted-lyrics,"I bought a toothbrush, some toothpaste
 A flannel for my face
 Pyjamas, a hairbrush
 New shoes and a case
@@ -2924,8 +2954,8 @@ A fortune all for you
 But it's not my conscience
 That hates to be untrue
 I asked of my reflection
-Tell me what is there to do?"
-322308,That Hump,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-that-hump-lyrics,"Hey, man, you think you could give me a few
+Tell me what is there to do?",0
+322308,That Hump,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-that-hump-lyrics,"Hey, man, you think you could give me a few
 So I can get me a sandwich or somethin', you know?
 If I could get over that hump (Mm)
 Then maybe I will feel better
@@ -2981,8 +3011,8 @@ Ooh, said I'm tired, yeah, oh
 Of this dope, ooh
 Tired of this dope
 Of this dope
-Mm-mm, of this dope, mm"
-599556,The Cell,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-the-cell-lyrics,"Girl came through, the light skin honey with the cinnamon smell
+Mm-mm, of this dope, mm",6211
+599556,The Cell,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-the-cell-lyrics,"Girl came through, the light skin honey with the cinnamon smell
 Girl was so enticing, baby, make a nigga choose hell
 Mama hopped up on cocaine
 Daddy on spaceships with no brain
@@ -3014,8 +3044,8 @@ Home of the brave
 Brenda done died with no name (Hey)
 Nickel bag coke to the brain (Shoo, shoo)
 Rich man got the double barrel (Hey, hey)
-Shots from the po-po"
-832338,The Grind,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-the-grind-lyrics,"""Talkin' 'bout... the muthafuckin' 'God We Trust' is on the dollar
+Shots from the po-po",5324
+832338,The Grind,Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-the-grind-lyrics,"""Talkin' 'bout... the muthafuckin' 'God We Trust' is on the dollar
 That's the only dude they talkin' about""
 Every day is a struggle
 How to hustle some doe
@@ -3056,8 +3086,8 @@ And the taxes is 10%, the rest is for the rent
 Then crime is what you get, and niggas is innocent
 It's freedom or not freedom, breathin' or not breathin'
 'Nother day, 'nother way, 'nother dollar spent
-Gotta make a revolution out of 15 cent"
-55550,The Healer,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-the-healer-lyrics,"Comin', comin' to you live and clear
+Gotta make a revolution out of 15 cent",0
+55550,The Healer,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-the-healer-lyrics,"Comin', comin' to you live and clear
 I'd like to bring everyone's attention
 Alhamdulillah, Allah, Jehovah
 Yahweh, Dios, Ma'at, Jah
@@ -3083,7 +3113,7 @@ They call you indigo, we call you Africa
 Go get baptized in the ocean, huh
 Of the people, say
 Reboot, refresh, restart
-Fresh page, new day, OGs, new key"
+Fresh page, new day, OGs, new key",76633
 2802882,The Warriors Reminder,Erykah Badu,,,https://genius.com/Erykah-badu-the-warriors-reminder-annotated,"I am awake
 My mind is free
 I am creative
@@ -3115,8 +3145,8 @@ I'm on my path
 Warriors walk alone
 I won't let my focus change
 Taking out the demons in my range
-That's mama's gun"
-832464,Think Twice,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-think-twice-lyrics,"Maybe
+That's mama's gun",0
+832464,Think Twice,Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-think-twice-lyrics,"Maybe
 May be
 Maybe we oughta think twice
 Before we start something nice
@@ -3132,8 +3162,8 @@ Roy Hargrove, ladies and gentlemen
 You know I love you, baby
 Think twice
 Is it chilly in here to y'all or what?
-(Worldwide underground)"
-699700,Time’s a Wastin’,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-times-a-wastin-lyrics,"Yeah, ay
+(Worldwide underground)",0
+699700,Time’s a Wastin’,Erykah Badu,Mama’s Gun,,https://genius.com/Erykah-badu-times-a-wastin-lyrics,"Yeah, ay
 Time's a wastin'
 Don't you take your time, young man
 Keep on drifting and
@@ -3163,10 +3193,10 @@ Learn from your past
 Oh baby we need to smile
 Oh baby, baby we need to smile
 Cause time's a wastin'
-Oh, oh, oh, oh"
-831846,Today,Erykah Badu,,,https://genius.com/Erykah-badu-today-lyrics,
-8887843,Today (Earth Song),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-today-earth-song-lyrics,
-9231,Turn Me Away (Get MuNNY),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-turn-me-away-get-munny-lyrics,"What'sa matter, is he drunk?
+Oh, oh, oh, oh",34619
+831846,Today,Erykah Badu,,,https://genius.com/Erykah-badu-today-lyrics,,0
+8887843,Today (Earth Song),Erykah Badu,"Red Star Sounds, Volume 1: Soul Searching",,https://genius.com/Erykah-badu-today-earth-song-lyrics,,0
+9231,Turn Me Away (Get MuNNY),Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-turn-me-away-get-munny-lyrics,"What'sa matter, is he drunk?
 (I ain't said nothin')
 Yeah, he drunk
 Get munny
@@ -3214,8 +3244,8 @@ Way-oh, thank you
 (Well, I ain't messin' with the broke, broke)
 (three-fo'-five-five-one-two-two-two-two
 -seven-eight-nine-nine-eleven-twelve-twelve-twelve)
-(That was pretty, y'all was right)"
-280295,Twinkle,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-twinkle-lyrics,"Ayy, yo
+(That was pretty, y'all was right)",15510
+280295,Twinkle,Erykah Badu,"New Amerykah, Part One (4th World War)",,https://genius.com/Erykah-badu-twinkle-lyrics,"Ayy, yo
 What the fuck are you doin'?
 Ayy, we gotta get out, come here
 Where they hit me at?
@@ -3262,8 +3292,8 @@ Djeddjedu
 Sekhet Maat
 Anru em
 Smai Tawiu
-I don't have to tell you things aren't good. Everybody knows things aren't good. We know the air is unfit to breathe and our food is unfit to eat. Young punks are running the street. No one knows just what to do and there's no end to it. The dollar buys a penny's worth, the banks are going under, coppers keeping a gun under the counter. We sit watching our idiot boxes while some local anchorman tells us that today we've had eighteen murders and eighty violent crimes, as if that were the way things are supposed to be. We know times are bad--worse than bad. People are crazy. It's like everything, everywhere is going utterly mad, so we never leave our homes. We sit in our comfy abodes while the world is getting smaller and we say, ""C'mon, at least leave us alone in our family rooms. Let me have my microwave and flat screen and my 20-inch wheels and I won't say anything. Just leave us alone."" Well, I'm not gonna leave you alone. I want you to get angry! I don't want you to riot. I don't want you to protest. I don't want you to write to your senator because I won't know what to tell you to tell him. I don't know what to do about the recession and the inflation and the crime in the street. All I know is that you've got to get mad. You've got to say, ""I'm a human being, damn it! My life has value!"""
-832771,Tyrone,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-tyrone-lyrics,"(Call Tyrone)
+I don't have to tell you things aren't good. Everybody knows things aren't good. We know the air is unfit to breathe and our food is unfit to eat. Young punks are running the street. No one knows just what to do and there's no end to it. The dollar buys a penny's worth, the banks are going under, coppers keeping a gun under the counter. We sit watching our idiot boxes while some local anchorman tells us that today we've had eighteen murders and eighty violent crimes, as if that were the way things are supposed to be. We know times are bad--worse than bad. People are crazy. It's like everything, everywhere is going utterly mad, so we never leave our homes. We sit in our comfy abodes while the world is getting smaller and we say, ""C'mon, at least leave us alone in our family rooms. Let me have my microwave and flat screen and my 20-inch wheels and I won't say anything. Just leave us alone."" Well, I'm not gonna leave you alone. I want you to get angry! I don't want you to riot. I don't want you to protest. I don't want you to write to your senator because I won't know what to tell you to tell him. I don't know what to do about the recession and the inflation and the crime in the street. All I know is that you've got to get mad. You've got to say, ""I'm a human being, damn it! My life has value!""",16714
+832771,Tyrone,Erykah Badu,Tyrone - Single,,https://genius.com/Erykah-badu-tyrone-lyrics,"(Call Tyrone)
 Heh-heh-heh, call him!
 And tell him, ""Come on""
 Help you get your shit
@@ -3272,8 +3302,8 @@ You need to call Tyrone
 (Call him)
 Hold on...
 But ya can't use my phone
-(Audience cheering)"
-832750,Tyrone (Extended Version),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-tyrone-extended-version-lyrics,"Alright then
+(Audience cheering)",63312
+832750,Tyrone (Extended Version),Erykah Badu,Live,,https://genius.com/Erykah-badu-tyrone-extended-version-lyrics,"Alright then
 I'm gettin tired of your shit
 You don't never buy me nothin
 And every time you come around
@@ -3324,8 +3354,8 @@ And go and tell it to the preacher man ha
 But first I think ya need to call Tyrone (call him)
 And tell him come on help you get your shit
 Hold on
-But ya can't use my phone"
-2379034,U Don’t Have To Call,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-u-dont-have-to-call-lyrics,"You don't have to call
+But ya can't use my phone",28770
+2379034,U Don’t Have To Call,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-u-dont-have-to-call-lyrics,"You don't have to call
 It's okay, squirrel
 'Cause I will be alright tonight
 Ooh boy, what planet do you come from, boy?
@@ -3333,8 +3363,8 @@ Is it Neptune or Jupiter, boy?
 Come and feel my loving, boy
 You know that you deserve it, boy
 What planet do you come from, boy?
-I know that we just met, oh boy"
-9229,Umm Hmm,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-umm-hmm-lyrics,"Take some time to let your feelings flow free
+I know that we just met, oh boy",15307
+9229,Umm Hmm,Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-umm-hmm-lyrics,"Take some time to let your feelings flow free
 (Take some time to let your feelings show)
 What we gon' do right here is go back
 Let your feelings flow free
@@ -3364,8 +3394,8 @@ I know, I know, I know you care for me
 (Umm hmm) Don't play with me
 Playa do I look like a play thing?
 (Umm hmm) Boy you know the drill
-(Umm hmm) Cause the feeling's real"
-2378765,U Use to Call Me,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-u-use-to-call-me-lyrics,"Despite initial reports that this song featured Drake, it turned out to just be someone imitating him.
+(Umm hmm) Cause the feeling's real",8842
+2378765,U Use to Call Me,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-u-use-to-call-me-lyrics,"Despite initial reports that this song featured Drake, it turned out to just be someone imitating him.
 (You used to call me)
 Ugh, man
 You're so beautiful
@@ -3382,8 +3412,8 @@ Everybody that I know is still rap personas
 Niggas comin' out the wood works like they knew me
 My hair's longer than the twist in the movies
 Real niggas wassup
-(Yeah, yeah, yeah)"
-11488100,Valentine,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-and-the-alchemist-valentine-lyrics,"Lyrics from Snippet
+(Yeah, yeah, yeah)",26470
+11488100,Valentine,Erykah Badu,Abi & Alan,,https://genius.com/Erykah-badu-and-the-alchemist-valentine-lyrics,"Lyrics from Snippet
 Well, this girl met this guy
 He was a fuckboy in disguise
 She gon' let him slide
@@ -3398,8 +3428,8 @@ But she gon' let him slide
 As a man,
 He know it's not,
 (Oh yes it is)
-No it's not, nigga"
-724277,Vibrate On,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-vibrate-on-lyrics,"Hey, Hey...
+No it's not, nigga",0
+724277,Vibrate On,Erykah Badu,Girlfriends: The Soundtrack,,https://genius.com/Erykah-badu-vibrate-on-lyrics,"Hey, Hey...
 Oh let me know, let me know, let me know, there she go...
 They knew I was gangsta, when I hit the door
 I was hurting them baby, it was pitiful
@@ -3420,8 +3450,8 @@ My cup runneth over, I'm in Hollywood
 It's 2 in the morning, just another day, for what's your number, what's your name
 Damn, all night long
 They On--
-Cause I rather be left alone..."
-2378780,What’s Yo Phone Number / Telephone,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-whats-yo-phone-number-telephone-lyrics,"Baby, what's your phone number?
+Cause I rather be left alone...",7635
+2378780,What’s Yo Phone Number / Telephone,Erykah Badu,But You Caint Use My Phone,,https://genius.com/Erykah-badu-whats-yo-phone-number-telephone-lyrics,"Baby, what's your phone number?
 I'm crazy, call me Willy Wonka
 Lately you make me really wonder
 If you really wanna
@@ -3478,8 +3508,8 @@ Said it won't be too long
 Transition time to go away
 Time to go away
 Slow fade
-Slow, slow fade oh..."
-9358048,Who Cloned Tyrone,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-who-cloned-tyrone-lyrics,"Sisters, how ya'll feel?
+Slow, slow fade oh...",51500
+9358048,Who Cloned Tyrone,Erykah Badu,They Cloned Tyrone (Music from and Inspired by the Netflix Film),,https://genius.com/Erykah-badu-who-cloned-tyrone-lyrics,"Sisters, how ya'll feel?
 Brothers, ya'll alright?
 I'm gettin' tired of your shit
 You don't ever buy me nothin'
@@ -3511,8 +3541,8 @@ Like Badu, I'ma tell you the truth
 Got the proof, it's on the news
 Hell going on
 I don't get this shit
-And they tapping our phones"
-9236,Window Seat,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-window-seat-lyrics,"Hey
+And they tapping our phones",0
+9236,Window Seat,Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-window-seat-lyrics,"Hey
 Ohh, ohh, ohhh
 Fell in love
 So, presently I'm standing
@@ -3561,8 +3591,8 @@ Somebody say come back (Hey)
 Come back, come back, baby, come back
 Come back, come back, baby, come back (Come look for me, say)
 Come back, come back, baby, come back (Hey, hey)
-They play it safe, are quick to assassinate what they do not understand. They move in packs ingesting more and more fear with every act of hate on one another. They feel most comfortable in groups, less guilt to swallow. They are us. This is what we have become. Afraid to respect the individual. A single person within a circumstance can move one to change. To love herself. To evolve"
-832403,Woo,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-woo-lyrics,")
+They play it safe, are quick to assassinate what they do not understand. They move in packs ingesting more and more fear with every act of hate on one another. They feel most comfortable in groups, less guilt to swallow. They are us. This is what we have become. Afraid to respect the individual. A single person within a circumstance can move one to change. To love herself. To evolve",100789
+832403,Woo,Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-woo-lyrics,")
 Woooooooo
 (Uh, uh, uh, now, to make the rain come down, come on)
 (Yeah, uh, ah yeah, uh B-boys and B-girls now say...)
@@ -3604,8 +3634,8 @@ It's so abstract
 (Uh, yeah, Westside, wassup Snoop? Come on, hey)
 (Uh, Downtown Dallas...)
 (Uh, uh, thank you, thank you, thank you, one more)
-(That's great)"
-832140,World Keeps Turnin’ (Intro),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-world-keeps-turnin-intro-lyrics,"The world is gon' turn
+(That's great)",5690
+832140,World Keeps Turnin’ (Intro),Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-world-keeps-turnin-intro-lyrics,"The world is gon' turn
 The world is on & on
 Turn
 And the world is on & on
@@ -3615,8 +3645,8 @@ On. On. On. On
 On. On and On
 On. On. On and on, on
 On
-On and On"
-832185,World Keeps Turnin’ (Outro),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-world-keeps-turnin-outro-lyrics,"The world is gon' turn
+On and On",0
+832185,World Keeps Turnin’ (Outro),Erykah Badu,Worldwide Underground,,https://genius.com/Erykah-badu-world-keeps-turnin-outro-lyrics,"The world is gon' turn
 The world is on & on
 Turn
 And the world is on & on
@@ -3627,18 +3657,18 @@ On. On and On
 On. On. On and on, on
 On
 On and On
-The world is on and on"
+The world is on and on",0
 832693,You Loving Me,Erykah Badu,,,https://genius.com/Erykah-badu-you-loving-me-lyrics,"You're loving me
 And I'm driving your Benz
 And I'm spending your ends
 And I'm drinking your gin
 And I'm fucking your friends
-That's terrible, isn't it?"
-9230,You Loving Me (Session),Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-you-loving-me-session-lyrics,"'kin yo' Gin
+That's terrible, isn't it?",0
+9230,You Loving Me (Session),Erykah Badu,"New Amerykah, Part Two: Return of the Ankh",,https://genius.com/Erykah-badu-you-loving-me-session-lyrics,"'kin yo' Gin
 You loving me - and I'm fuckin yo' friends
 You loving me...
-...That's terrible, isn't it? {*cracks up*}"
-9239,Your Precious Love,Erykah Badu,"Album(id, artist, ...)",,https://genius.com/Erykah-badu-and-dangelo-your-precious-love-lyrics,"Um, say baby, won't you play that old song that we used to--
+...That's terrible, isn't it? {*cracks up*}",0
+9239,Your Precious Love,Erykah Badu,The Best So Far...,,https://genius.com/Erykah-badu-and-dangelo-your-precious-love-lyrics,"Um, say baby, won't you play that old song that we used to--
 Yes, that's the one
 That's it?
 I love that
@@ -3666,4 +3696,4 @@ And I, I just wanna, I, I just wanna show my appreciation (Sugar)
 'Cause when I found you, I found a new inspiration
 Heaven must have sent your precious love
 Heaven must have, must have
-Heaven, heaven, yeah, yeah, oh, oh, ah, ah"
+Heaven, heaven, yeah, yeah, oh, oh, ah, ah",0
